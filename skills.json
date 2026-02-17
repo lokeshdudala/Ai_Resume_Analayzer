@@ -1,0 +1,169 @@
+{
+  "Programming Languages": [
+    "c", "c++", "java", "python", "javascript", "typescript",
+    "c#", "go", "rust", "php", "ruby", "kotlin", "swift",
+    "dart",  "matlab", "bash", "powershell"
+  ],
+
+  "Frontend Development": [
+    "html", "css", "sass", "bootstrap", "tailwind",
+    "javascript", "typescript",
+    "react", "angular", "vue",
+    "next.js", "nuxt.js",
+    "redux", "material ui",
+    "responsive design", "ui/ux",
+    "webpack", "vite"
+  ],
+
+  "Backend Development": [
+    "node", "express", "fastapi", "spring boot",
+    "django", "flask", ".net",
+    "laravel", "ruby on rails",
+    "rest api", "graphql",
+    "microservices", "authentication",
+    "authorization", "jwt", "oauth",
+    "server side rendering"
+  ],
+
+  "Database Systems": [
+    "sql", "mysql", "postgresql",
+    "mongodb", "redis",
+    "oracle", "sqlite",
+    "nosql", "database design",
+    "schema design", "data modeling",
+    "indexing", "query optimization",
+    "normalization", "stored procedures"
+  ],
+
+  "Cloud Computing": [
+    "aws", "azure", "gcp",
+    "ec2", "s3", "lambda",
+    "cloud storage", "cloud architecture",
+    "serverless", "load balancing",
+    "virtual machines", "cloud security"
+  ],
+
+  "DevOps & Infrastructure": [
+    "docker", "kubernetes",
+    "terraform", "ansible",
+    "jenkins", "ci/cd",
+    "github actions",
+    "nginx", "apache",
+    "monitoring", "prometheus",
+    "grafana", "infrastructure as code"
+  ],
+
+  "Mobile Development": [
+    "android", "kotlin", "swift",
+    "ios", "flutter", "react native",
+    "android studio", "mobile app development"
+  ],
+
+  "Data Science & Analytics": [
+    "machine learning", "deep learning",
+    "data analysis", "data visualization",
+    "pandas", "numpy", "scikit-learn",
+    "tensorflow", "keras", "pytorch",
+    "statistics", "big data",
+    "hadoop", "spark",
+    "tableau", "power bi"
+  ],
+
+  "Artificial Intelligence": [
+    "nlp", "computer vision",
+    "transformers", "llm",
+    "prompt engineering",
+    "chatbot development",
+    "reinforcement learning",
+    "model deployment"
+  ],
+
+  "Cybersecurity": [
+    "cybersecurity", "network security",
+    "encryption", "penetration testing",
+    "ethical hacking",
+    "vulnerability assessment",
+    "firewalls", "intrusion detection",
+    "security auditing"
+  ],
+
+  "IoT & Embedded Systems": [
+    "iot", "embedded systems",
+    "arduino", "raspberry pi",
+    "microcontrollers",
+    "rtos", "sensor integration",
+    "firmware development"
+  ],
+
+  "Blockchain": [
+    "blockchain", "solidity",
+    "smart contracts", "ethereum",
+    "web3", "cryptography"
+  ],
+
+  "Testing & QA": [
+    "unit testing", "integration testing",
+    "selenium", "cypress",
+    "postman", "jest",
+    "pytest", "automation testing",
+    "api testing"
+  ],
+
+  "Software Engineering Concepts": [
+    "data structures", "algorithms",
+    "oop", "system design",
+    "design patterns",
+    "software architecture",
+    "distributed systems",
+    "event driven architecture",
+    "agile", "scrum",
+    "object oriented programming",
+    "clean code"
+  ],
+
+  "Mechanical Engineering": [
+    "autocad", "solidworks",
+    "ansys", "catia",
+    "thermodynamics",
+    "fluid mechanics",
+    "heat transfer",
+    "manufacturing processes",
+    "mechanical design"
+  ],
+
+  "Civil Engineering": [
+    "staad pro", "etabs",
+    "structural analysis",
+    "construction management",
+    "surveying",
+    "geotechnical engineering",
+    "transportation engineering"
+  ],
+
+  "Electrical Engineering": [
+    "power systems",
+    "electrical machines",
+    "control systems",
+    "circuit design",
+    "matlab simulation",
+    "renewable energy systems"
+  ],
+
+  "Electronics & Communication": [
+    "vlsi", "verilog",
+    "fpga", "embedded c",
+    "signal processing",
+    "communication systems",
+    "analog electronics",
+    "digital electronics"
+  ],
+
+  "Business & Management": [
+    "project management",
+    "product management",
+    "business analysis",
+    "digital marketing",
+    "seo", "content strategy",
+    "market research"
+  ]
+}
